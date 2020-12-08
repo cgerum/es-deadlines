@@ -1,2 +1,2 @@
 pytz==2018.9
-PyYAML==3.13
+PyYAML==5.1
